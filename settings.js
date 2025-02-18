@@ -12,7 +12,7 @@ SESSION_ID: process.env.SESSION_ID || "Put Your Session Id",
 
 //=================================================
 //මෙවා defult එවා කැමතිනම් false and true විතරක් වෙනස් කරගන්න..✨
-//නැත්තම් bot deploy කරහම .settings comade එක use කරලත් වෙනස් කරගන්න පුලුවන්..🎊
+//නැත්තම් bot deploy කරහම .settings comade එක use කරලත් වෙhනස් කරගන්න පුලුවන්..🎊
 
 PREFIX: process.env.PREFIX || '.' ,
 MODE: process.env.MODE === undefined ?"public" : process.env.MODE,
